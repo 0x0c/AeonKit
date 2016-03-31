@@ -1,0 +1,1 @@
+../../../../../Pod/Classes/SoftModule/Utility/HapticPatternGeneratorModule/ANKSoftHapticPatternGeneratorModule.h

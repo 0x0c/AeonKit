@@ -1,0 +1,30 @@
+{
+  "name": "AeonKit",
+  "version": "0.1.0",
+  "summary": "A short description of AeonKit.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/AeonKit",
+  "license": "MIT",
+  "authors": {
+    "Akira Matsuda": "akira.matsuda@me.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/AeonKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "AeonKit": [
+      "Pod/Assets/*.png"
+    ]
+  },
+  "dependencies": {
+    "konashi-ios-sdk": [
+
+    ]
+  }
+}

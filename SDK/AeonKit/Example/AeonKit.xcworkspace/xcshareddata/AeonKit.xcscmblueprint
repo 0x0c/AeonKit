@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BD7A26A81B3173129AFFA9E470FEA3A2AC915B96",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BD7A26A81B3173129AFFA9E470FEA3A2AC915B96" : 0,
+    "1F8DF012624E4FABF4C199F7A8065C5712B848A8" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C892FC6A-735B-4BB0-AE8F-306080A0814E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BD7A26A81B3173129AFFA9E470FEA3A2AC915B96" : "AeonKit\/",
+    "1F8DF012624E4FABF4C199F7A8065C5712B848A8" : "..\/..\/..\/..\/openFrameworks\/of_v0.9.0_osx_release_boost_1_59_0\/apps\/myApps\/AeonNodeEditor"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AeonKit",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/AeonKit.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:0x0c\/AeonNodeEditor.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1F8DF012624E4FABF4C199F7A8065C5712B848A8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:0x0c\/AeonKit_iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BD7A26A81B3173129AFFA9E470FEA3A2AC915B96"
+    }
+  ]
+}
